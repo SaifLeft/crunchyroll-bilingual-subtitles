@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Crunchyroll 雙語字幕",
+    "description": "擴充功能名稱"
+  },
+  "extDescription": {
+    "message": "同時顯示多條 Crunchyroll 官方字幕，適用於任何配音。",
+    "description": "擴充功能描述"
+  }
+}

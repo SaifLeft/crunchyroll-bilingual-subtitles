@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Crunchyroll バイリンガル字幕",
+    "description": "拡張機能の名前"
+  },
+  "extDescription": {
+    "message": "Crunchyroll の公式字幕を複数同時に表示します。どの吹き替えでも使えます。",
+    "description": "拡張機能の説明"
+  }
+}

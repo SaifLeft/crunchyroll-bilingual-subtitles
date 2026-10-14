@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Crunchyroll Bilingual Subtitles",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Show several official Crunchyroll subtitle tracks at once, with any dub.",
+    "description": "Extension description"
+  }
+}

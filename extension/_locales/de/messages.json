@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Crunchyroll Zweisprachige Untertitel",
+    "description": "Name der Erweiterung"
+  },
+  "extDescription": {
+    "message": "Zeigt mehrere offizielle Crunchyroll-Untertitelspuren gleichzeitig an – bei jeder Synchronisation.",
+    "description": "Beschreibung der Erweiterung"
+  }
+}

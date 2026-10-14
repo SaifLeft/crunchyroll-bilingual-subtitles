@@ -1,0 +1,13 @@
+# Private / local-only material - never publish
+original/
+*.crx
+*.pem
+/*.html
+/*_files/
+CLAUDE.local.md
+.claude/
+
+# Build output and tooling
+dist/
+publish/
+node_modules/
